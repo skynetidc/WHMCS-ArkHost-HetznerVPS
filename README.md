@@ -234,5 +234,3 @@ Free and open source. Commercial support available.
 Check out our other WHMCS modules at [arkhost.com/whmcs-modules.php](https://arkhost.com/whmcs-modules.php "https://arkhost.com/whmcs-modules.php")
 
 © 2025 ArkHost
-
-<br>
